@@ -66,7 +66,7 @@ INFORMATION & CONTACT
 
 
 - 🏛  I’m currently studing IT on: Military University of Technology in Warsaw (5 year)
-- 🔭 I’m currently working on: Master state management (NGRX and redux pattern)
+- 🔭 I’m currently working on: New features from Angular 17 :)
 - 💼 I’m looking for job as Angular Developer
 - 💻 Experience:
   - Almost a year in front-end with mentee work
