@@ -67,7 +67,7 @@ INFORMATION & CONTACT
 
 - 🏛  I’m currently studing IT on: Military University of Technology in Warsaw (5 year)
 - 🔭 I’m currently working on: New features from Angular 17 :)
-- 💼 I’m looking for job as Angular Developer
+- 💼 I’m currently working as Junior Front-End Developer (Angular)
 - 💻 Experience:
   - Almost a year in front-end with mentee work
 - 📫 How to reach me: **michal.a.mojkowski@gmail.com**
