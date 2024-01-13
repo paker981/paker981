@@ -70,6 +70,7 @@ INFORMATION & CONTACT
 - 💼 I’m currently working as Junior Front-End Developer (Angular)
 - 💻 Experience:
   - Almost a year in front-end with mentee work
+  - Work with commercial project in Angular + Konva.js + NGRX ( Dec 2023 - present )
 - 📫 How to reach me: **michal.a.mojkowski@gmail.com**
 - ⚡ Fun fact:
   - Did you know that the world's first website, created by Sir Tim Berners-Lee in 1990, is still online? 
