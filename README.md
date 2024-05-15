@@ -65,7 +65,7 @@ INFORMATION & CONTACT
 </p>
 
 
-- 🏛  I’m currently studing IT on: Military University of Technology in Warsaw (5 year)
+- 🏛  Master's Degree in Computer Science on: Military University of Technology in Warsaw
 - 🔭 I’m currently working on: New features from Angular 17 :)
 - 💼 I’m currently working as Junior Front-End Developer (Angular)
 - 💻 Experience:
