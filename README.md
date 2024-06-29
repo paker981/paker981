@@ -66,7 +66,7 @@ INFORMATION & CONTACT
 
 
 - 🏛  Master's Degree in Computer Science on: Military University of Technology in Warsaw
-- 🔭 I’m currently working on: New features from Angular 17 :)
+- 🔭 I’m currently working on: New features from Angular 18
 - 💼 I’m currently working as Junior Front-End Developer (Angular)
 - 💻 Experience:
   - Almost a year in front-end with mentee work
