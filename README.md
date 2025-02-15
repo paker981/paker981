@@ -66,11 +66,12 @@ INFORMATION & CONTACT
 
 
 - 🏛  Master's Degree in Computer Science on: Military University of Technology in Warsaw
-- 🔭 I’m currently working on: New features from Angular 18
-- 💼 I’m currently working as Junior Front-End Developer (Angular)
+- 🔭 I’m currently working on: New features from Angular 19
+- 💼 I’m currently working as Front-End Developer (Angular)
 - 💻 Experience:
   - Almost a year in front-end with mentee work
-  - Work with commercial project in Angular + Konva.js + NGRX ( Dec 2023 - present )
+  - Work with commercial project in Angular + Konva.js + NGRX + Bootstrap ( Dec 2023 - present )
+  - Work with another project in Angular + SignalR + Angular Material + .NET + MSSQL ( Jul 2024 - present )
 - 📫 How to reach me: **michal.a.mojkowski@gmail.com**
 - ⚡ Fun fact:
   - Did you know that the world's first website, created by Sir Tim Berners-Lee in 1990, is still online? 
